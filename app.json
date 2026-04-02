@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "QuitTogether",
+    "slug": "quittogether",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F3EE"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.quittogether.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F3EE"
+      },
+      "package": "com.quittogether.app"
+    },
+    "scheme": "quittogether",
+    "plugins": ["expo-router"]
+  }
+}

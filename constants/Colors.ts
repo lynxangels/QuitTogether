@@ -1,0 +1,33 @@
+export const Colors = {
+  greenDark: '#3A6147',
+  greenMid: '#4A7C59',
+  greenLight: '#5BA86A',
+  greenPale: '#EDF5E8',
+  brownMid: '#8B7355',
+  brownLight: '#C8B89A',
+  cream: '#F7F3EE',
+  creamDark: '#EDE7DC',
+  white: '#FFFFFF',
+  textPrimary: '#1A1A1A',
+  textMuted: '#8B7355',
+  amber: '#F5C542',
+  amberLight: '#FFF8E0',
+  amberDark: '#8B6A00',
+  rose: '#E07070',
+  rosePale: '#FDECEA',
+  roseDark: '#A03040',
+  bluePale: '#E8F2FA',
+  blueDark: '#1E6090',
+  skyTop: '#C8DFF5',
+  skyBot: '#A8CBEA',
+  grass: '#5A9A6A',
+  border: '#DDD3C0',
+};
+
+export const Radius = {
+  sm: 8,
+  md: 12,
+  lg: 16,
+  xl: 20,
+  full: 999,
+};
