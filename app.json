@@ -4,7 +4,6 @@
     "slug": "quittogether",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "backgroundColor": "#F7F3EE"
@@ -20,6 +19,9 @@
       "package": "com.quittogether.app"
     },
     "scheme": "quittogether",
-    "plugins": ["expo-router"]
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
   }
 }
