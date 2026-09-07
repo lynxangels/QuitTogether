@@ -35,7 +35,6 @@
   * [5. Menjalankan Aplikasi](#5-menjalankan-aplikasi)
 * [🗄️ Skema Database](#️-skema-database-firebase-firestore)
 * [📊 Pengujian Pengguna](#-pengujian-pengguna-uat--sus)
-* [📚 Dokumentasi](#-dokumentasi)
 * [👥 Tim Pengembang](#-tim-pengembang)
 * [📜 Lisensi](#-lisensi)
 
@@ -520,27 +519,6 @@ Hasil tersebut menunjukkan bahwa aplikasi memperoleh tingkat usability yang baik
 Berdasarkan hasil pengujian, QuitTogether memperoleh **SUS Score sebesar 72.88** dan berada dalam kategori **GOOD**.
 
 Hasil ini menunjukkan bahwa aplikasi telah memiliki tingkat usability yang baik dan dapat digunakan oleh pengguna untuk menjalankan fungsi utama yang tersedia.
-
----
-
-# 📚 Dokumentasi
-
-Dokumentasi lengkap mengenai proses pengembangan dan pengujian tersedia pada:
-
-```text
-docs/
-└── Laporan_Sprint_dan_UAT.md
-```
-
-Dokumen tersebut mencakup:
-
-* Sprint 1–8
-* Perkembangan fitur
-* Implementasi sistem
-* Hasil pengujian
-* User Acceptance Testing
-* System Usability Scale (SUS)
-* Evaluasi aplikasi
 
 ---
 
