@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/expo/expo/main/templates/expo-template-blank/assets/icon.png" width="100" alt="QuitTogether Logo"/>
-</p>
 
 <h1 align="center">🚭 QuitTogether App</h1>
 
